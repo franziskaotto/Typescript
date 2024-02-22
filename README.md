@@ -1,2 +1,0 @@
-# Typescript
-trying Typescript
